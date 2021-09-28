@@ -1,0 +1,205 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CorporateAVN-BoldItalic
+FamilyName:CorpoA (VN)
+StyleName:Bold Italic
+FullName:CorpoA (VN) Bold Italic
+MenuName:CorpoA (VN)
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\ADMIN\Desktop\GLC\Font\CorpoA (VN) Bold Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:105372
+FileModTime:1492535268
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,CorpoA (VN) Bold Italic
+NameArray:0,Win,1,CorpoA (VN)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CorporateAVN-Bold
+FamilyName:CorpoA (VN)
+StyleName:Bold
+FullName:CorpoA (VN) Bold
+MenuName:CorpoA (VN)
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\ADMIN\Desktop\GLC\Font\CorpoA (VN) Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:112792
+FileModTime:1492535270
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,CorpoA (VN) Bold
+NameArray:0,Win,1,CorpoA (VN)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CorporateAVN-RegularItalic
+FamilyName:CorpoA (VN)
+StyleName:Italic
+FullName:CorpoA (VN) Italic
+MenuName:CorpoA (VN)
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\ADMIN\Desktop\GLC\Font\CorpoA (VN) Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:98820
+FileModTime:1492535270
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,CorpoA (VN) Italic
+NameArray:0,Win,1,CorpoA (VN)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CorporateAVN-Regular
+FamilyName:CorpoA (VN)
+StyleName:Regular
+FullName:CorpoA (VN)
+MenuName:CorpoA (VN)
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ADMIN\Desktop\GLC\Font\CorpoA (VN) Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:109320
+FileModTime:1492535268
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,CorpoA (VN)
+NameArray:0,Win,1,CorpoA (VN)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CorporateACon-Reg
+FamilyName:Corporate A Condensed
+StyleName:Regular
+FullName:Corporate A Condensed
+MenuName:CorporateACon
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ADMIN\Desktop\GLC\Font\CORPORATEACON-REG_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:42372
+FileModTime:1526716794
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,CorporateAConReg
+NameArray:0,Mac,4,Corporate A Condensed
+NameArray:0,Win,1,CorporateACon
+NameArray:0,Win,16,Corporate A Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CorporateSVN-BoldItalic
+FamilyName:CorpoS (VN)
+StyleName:Bold Italic
+FullName:CorpoS (VN) Bold Italic
+MenuName:CorpoS (VN)
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\ADMIN\Desktop\GLC\Font\CorpoS (VN) Bold Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:80576
+FileModTime:1492535270
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,CorpoS (VN) Bold Italic
+NameArray:0,Win,1,CorpoS (VN)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CorporateSVN-Bold
+FamilyName:CorpoS (VN)
+StyleName:Bold
+FullName:CorpoS (VN) Bold
+MenuName:CorpoS (VN)
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\ADMIN\Desktop\GLC\Font\CorpoS (VN) Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:82612
+FileModTime:1492535272
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,CorpoS (VN) Bold
+NameArray:0,Win,1,CorpoS (VN)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CorporateSVN-RegularItalic
+FamilyName:CorpoS (VN)
+StyleName:Italic
+FullName:CorpoS (VN) Italic
+MenuName:CorpoS (VN)
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\ADMIN\Desktop\GLC\Font\CorpoS (VN) Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:79656
+FileModTime:1492535272
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,CorpoS (VN) Italic
+NameArray:0,Win,1,CorpoS (VN)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CorporateSVN-Regular
+FamilyName:CorpoS (VN)
+StyleName:Regular
+FullName:CorpoS (VN)
+MenuName:CorpoS (VN)
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ADMIN\Desktop\GLC\Font\CorpoS (VN) Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:80820
+FileModTime:1492535272
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,CorpoS (VN)
+NameArray:0,Win,1,CorpoS (VN)
+%EndFont
+
